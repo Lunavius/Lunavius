@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, music, cooking, gaming and some more stuff
 - 🌱 I’m currently learning ICT-Application Development Specialist
 - 💞️ I’m looking to collaborate on --
-- 📫 How to reach me --
+- 📫 How to reach me: you probably can't
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The count of peoples that are older than you will never raise
 
