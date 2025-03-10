@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Lunavius
-- 👀 I’m interested in programming, music, cooking, gaming and some more stuff
-- 🌱 I’m currently learning ICT-Application Development Specialist
-- 💞️ I’m looking to collaborate on --
-- 📫 How to reach me: you probably can't
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The count of peoples that are older than you will never raise
+# 🌍 Hey there, I'm Ramon!  
+👨‍💻 **Apprentice Application Developer | Tech Enthusiast | Gamer**  
 
-<!---
-Ramon-3oo/Ramon-3oo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 What I Do  
+- 🖥️ **Coding & Web Development** – Learning **HTML, CSS, C#, and more**  
+
+## 🚀 Current Projects  
+- 🎯 **Rainbow Six Siege Tactic Planner** – Web app for tactical team planning 🔒
+
+## 🔥 Interests & Hobbies  
+- 📈 **Crypto & Trading** – Exploring investments & market trends  
+- 🎮 **Gaming** – Competitive & casual play in various genres  
+- 🤖 **IoT Learning** – Experimenting with smart tech & automation  
+- 🎹 **Piano** – Playing & improving musical skills  
+- 🍳 **Cooking** – Trying out new recipes & flavors  
