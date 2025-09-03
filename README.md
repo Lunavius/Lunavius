@@ -32,12 +32,6 @@ Here you’ll find a mix of personal projects, experiments, and contributions to
 
 ---
 
-## 🔹 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunavius&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunavius&layout=compact&theme=github_dark)  
-
----
-
 ## My Specs 💻
 
 **Desktop (ASUS Build)**  
