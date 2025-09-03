@@ -6,11 +6,25 @@ I’m passionate about writing clean, efficient code and building projects that 
 Here you’ll find a mix of personal projects, experiments, and contributions to open source.  
 
 ---
+```csharp
+public class AboutMe
+{
+    public string Username => "Lunavius";
+    public string Name => "Ramon";
+    public string Occupation => "Software Developer in Training";
 
-## 🔹 About Me
-- Currently working on: **Nexo - a studentsolution**  
-- Exploring: **[New tech, e.g., cloud, AI/ML, or low-level systems]**  
-- 2025 Goal: **Contribute to impactful open-source projects, sharpen system design skills, and build scalable applications used by real users.**
+    public string[] Hobbies => new[]
+    {
+       "Coding", "Cybersecurity", "Tech", "GameDev"
+    };
+
+    public string[] Stack => new[]
+    {
+        "Python", "JavaScript", "TypeScript", "C++", "C#", "Java",
+        "React", "Node.js", "Docker", "Git"
+    };
+}
+```
 
 ---
 
