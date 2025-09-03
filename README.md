@@ -38,4 +38,32 @@ Here you’ll find a mix of personal projects, experiments, and contributions to
 
 ---
 
+## My Specs 💻
+
+**Desktop (ASUS Build)**  
+![Intel](https://img.shields.io/badge/Intel-Core_i5_14600KF-0071C5?style=flat&logo=intel)  
+![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_4060-76B900?style=flat&logo=nvidia)  
+![NVIDIA](https://img.shields.io/badge/NVIDIA-GTX_1660_SUPER-76B900?style=flat&logo=nvidia)  
+![RAM](https://img.shields.io/badge/RAM-32GB-333?style=flat)  
+![OS](https://img.shields.io/badge/Windows-11_Pro-0078D6?style=flat&logo=windows)  
+
+---
+
+**Lenovo Laptop**  
+![AMD](https://img.shields.io/badge/AMD-Ryzen_7_7435HS-ED1C24?style=flat&logo=amd)  
+![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_4060-76B900?style=flat&logo=nvidia)  
+![RAM](https://img.shields.io/badge/RAM-16GB-333?style=flat)  
+![Storage](https://img.shields.io/badge/Storage-1TB-333?style=flat)  
+![OS](https://img.shields.io/badge/Windows-11-0078D6?style=flat&logo=windows)  
+![OS](https://img.shields.io/badge/Ubuntu-Dual_Boot-E95420?style=flat&logo=ubuntu)  
+
+---
+
+**HP Laptop (Work)**  
+![HP](https://img.shields.io/badge/HP-Work_Laptop-0096D6?style=flat&logo=hp)  
+![Intel](https://img.shields.io/badge/Intel-Core_i5_1245U-0071C5?style=flat&logo=intel)  
+![RAM](https://img.shields.io/badge/RAM-32GB-333?style=flat)  
+![OS](https://img.shields.io/badge/Windows-11-0078D6?style=flat&logo=windows)
+
+
 > “Simplicity is the soul of efficiency.” – Austin Freeman
